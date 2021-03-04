@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">HomeFoodActivity</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="hommie_food">Hommie Food</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login">Login</string>
+    <string name="new_here_register_now">New Here? Register Now</string>
 </resources>
