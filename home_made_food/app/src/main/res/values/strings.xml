@@ -11,4 +11,7 @@
     <string name="phone_number">Phone Number</string>
     <string name="login">Login</string>
     <string name="new_here_register_now">New Here? Register Now</string>
+    <string name="hello_foodie">Hello Foodie!</string>
+    <string name="logout">Logout</string>
+    <string name="coming_soon">Coming Soon!</string>
 </resources>

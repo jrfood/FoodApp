@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321834173959",
+    "project_id": "homefoodactivity",
+    "storage_bucket": "homefoodactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321834173959:android:6507bf8900d7ad25bfcca2",
+        "android_client_info": {
+          "package_name": "com.example.homefoodactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321834173959-poqa0qnq0cukk34elu4c0fibdb6mmqgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEd10uNGx3Tax_jmnIo_GYtnY2Qp_3XyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321834173959-poqa0qnq0cukk34elu4c0fibdb6mmqgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
